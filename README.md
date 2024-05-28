@@ -38,3 +38,7 @@ Cloudinary's Product Gallery is an interactive user interface for displaying you
 | preload             | An array indicating which media assets should be preloaded into the browser cache when the Product Gallery widget is initialized. [] indicates load the first image                                                | []                                            |
 | transition          | The effect to apply while transitioning between assets.                                                                                                                                                            | slide                                         |
 | zoom                | Whether to activate the zoom functionality for images.                                                                                                                                                             | TRUE                                          |
+
+## Git Repo
+
+The code is available here: [https://github.com/akshayranganath/streamlit_cld_product_gallery_widget](https://github.com/akshayranganath/streamlit_cld_product_gallery_widget)
